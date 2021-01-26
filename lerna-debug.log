@@ -1,0 +1,8 @@
+52 warn complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+53 error Error: Command failed: git tag @haikms/my-design-system-button@1.0.0 -m @haikms/my-design-system-button@1.0.0
+53 error fatal: tag '@haikms/my-design-system-button@1.0.0' already exists
+53 error
+53 error     at makeError (/Users/haibui/Desktop/my-design-system/node_modules/execa/index.js:174:9)
+53 error     at /Users/haibui/Desktop/my-design-system/node_modules/execa/index.js:278:16
+53 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+53 error     at async Promise.all (index 0)
